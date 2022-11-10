@@ -1,1 +1,1 @@
-FirebaseRecyclerViewTutorial
+Indian Investors Android App
